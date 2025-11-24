@@ -277,11 +277,14 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
- <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/3641f835-5f74-44ef-a2d8-121e3a05f08f" />
+![WhatsApp Image 2025-11-24 at 13 19 00_e80acebd](https://github.com/user-attachments/assets/da401a23-f619-4bd0-8ee3-39f82c291fce)
+
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img width="1222" height="854" alt="image" src="https://github.com/user-attachments/assets/32050ed1-856a-4816-a507-364f6a48636a" />
+ ![WhatsApp Image 2025-11-24 at 13 19 00_bdbe1868](https://github.com/user-attachments/assets/371b12c8-bf43-4720-99b7-07d6352998fd)
+
 
  
 ## Result :
